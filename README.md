@@ -1,0 +1,1 @@
+##Simple Angular routing applicaion with djangi backend attached. 
