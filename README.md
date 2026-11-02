@@ -1,1 +1,1 @@
-##Simple Angular routing applicaion with djangi backend attached. 
+##Simple Angular routing applicaion with django backend attached. 
